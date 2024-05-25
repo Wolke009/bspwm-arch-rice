@@ -14,3 +14,5 @@ bspc config automatic_scheme	spiral
  
 bspc rule -a Chromium desktop='^2'
 bspc rule -a Gimp desktop='^8' state=floating follow=on
+
+feh --bg-center \assets\backgrounds\catppuccin-macchiato.png
